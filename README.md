@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project aims to develop an intelligent system for detecting vehicles and recognizing their license plates along with reading the number and logginf the data using advanced computer vision techniques and machine learning models.
+This project aims to develop an intelligent system for detecting vehicles and recognizing their license plates along with reading the number and logging the data using advanced computer vision techniques and machine learning models.
 
 ## Features
 
